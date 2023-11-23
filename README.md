@@ -112,12 +112,11 @@ Clone this repository to your desired folder:
 - Twitter: [@rachelisaac13](https://twitter.com/Rachelisaac13)
 - LinkedIn: [Rachel Isaac](https://www.linkedin.com/in/rachelisaac13/)
 
-👤 **Kaung Myat Kyaw**
+👤 **Aleksander Karlsen**
 
-- Portfolio: [rhbarry.me](https://rhbarry.me)
+- Portfolio: [akiceberg.me](https://akiceberg.me)
 - GitHub: [1iceberg1](https://github.com/1iceberg1)
-- Twitter [1iceberg1](https://twitter.com/1iceberg1)
-- LinkedIn: [Kaung Myat Kyaw](https://www.linkedin.com/in/kaungmyatkyaw/)
+- LinkedIn: [Aleksander Karlsen](https://www.linkedin.com/in/aleksanderkarlsen/)
 
 👤 **Jerome Jay Osman**
 
