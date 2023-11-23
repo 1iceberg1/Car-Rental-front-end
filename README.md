@@ -5,7 +5,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [KanbanBoard](#kanban-board)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -63,15 +62,6 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - Front-end deployed website: [Live Demo](https://car-rental121.netlify.app)
-
-<!-- Kanban Board -->
-
-## Kanban Board <a name="kanban-board"></a>
-
-- [Kanban-Board-Front-End](https://github.com/users/1iceberg1/projects/5)
-- [Kanban-Board-Back-End](https://github.com/users/1iceberg1/projects/6)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
