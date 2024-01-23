@@ -102,11 +102,11 @@ Clone this repository to your desired folder:
 - Twitter: [@rachelisaac13](https://twitter.com/Rachelisaac13)
 - LinkedIn: [Rachel Isaac](https://www.linkedin.com/in/rachelisaac13/)
 
-👤 **Aleksander Karlsen**
+👤 **Nikita Kiselev**
 
 - Portfolio: [akiceberg.me](https://akiceberg.me)
 - GitHub: [1iceberg1](https://github.com/1iceberg1)
-- LinkedIn: [Aleksander Karlsen](https://www.linkedin.com/in/aleksanderkarlsen/)
+- LinkedIn: [Nikita Kiselev](https://www.linkedin.com/in/nikita-kiselev-7b5b672a3/)
 
 👤 **Jerome Jay Osman**
 
